@@ -1,0 +1,1 @@
+{"timestamp":"2019-06-07T15:23:36.212+0000","status":500,"error":"Internal Server Error","message":"Expected session attribute 'user'","path":"/logincheck"}

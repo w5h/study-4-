@@ -1,0 +1,5 @@
+<root>
+    <item name='com.sun.media.sound.ModelMappedInstrument'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
